@@ -41,9 +41,9 @@ body{
 }
 
 .divider{
-  border-top: 7px dotted #B6EADA;
+  border-top: 6px dotted #B6EADA;
   border-bottom: 0;
-  width: 8%;
+  width: 5%;
   margin: 20px auto;
 }
 
