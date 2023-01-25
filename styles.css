@@ -1,0 +1,111 @@
+body{
+  font-family: 'Noto Sans', Arial, sans-serif;
+  font-size: 1.1rem;
+  color: #D0C9C0;
+  margin: 0 0 0 0;
+  padding: 0;
+}
+
+.div1{
+  background-color: #2C3333;
+  margin-bottom: 0;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.logo{
+  display: block;
+  width: 10%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: white;
+}
+
+.name{
+  font-size:2.1rem;
+  font-family: 'Source Code Pro', Cascadia Code, monospace;
+  margin: auto;
+  text-align: center;
+  font-weight: bold;
+  color: #EFEAD8;
+}
+
+.dev{
+  font-family: 'ABeeZee', Arial, sans-serif;
+  text-align: center;
+  margin: 0 auto;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.divider{
+  color: #181D31;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+  height: 32px;
+  padding: 0;
+}
+
+.div2{
+  background-color: #B6EADA;
+  color: #181D31;
+  width: 90;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+}
+
+.l1emoji{
+  font-family: 'Noto Color Emoji', sans-serif;
+  display: inline-block;
+}
+
+.l1text{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  display: inline-block;
+}
+
+.l2emoji{
+  font-family: 'Noto Color Emoji', sans-serif;
+  display: inline-block;
+}
+
+.l2text{
+  font-family: 'Noto Sans', sans-serif;
+  font-weight: bold;
+  display: inline-block;
+}
+
+a{
+  color:#D49B54;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover{
+  color: #182747;
+  font-weight: bold;
+}
+
+.div3{
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-align: center;
+  color: #A3C7D6;
+}
+
+.contact{
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.copyright{
+  margin-top: 10px;
+}
