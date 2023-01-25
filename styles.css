@@ -41,13 +41,10 @@ body{
 }
 
 .divider{
-  color: #181D31;
-  text-align: center;
-  font-size: 2rem;
-  font-weight: bold;
-  margin: 0;
-  height: 32px;
-  padding: 0;
+  border-top: 7px dotted #B6EADA;
+  border-bottom: 0;
+  width: 8%;
+  margin: 20px auto;
 }
 
 .div2{
