@@ -45,6 +45,8 @@ body{
   border-bottom: 0;
   width: 5%;
   margin: 20px auto;
+  border-left: 0;
+  border-right: 0;
 }
 
 .div2{
@@ -64,7 +66,6 @@ body{
 }
 
 .l1text{
-  font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
   display: inline-block;
 }
@@ -75,7 +76,6 @@ body{
 }
 
 .l2text{
-  font-family: 'Noto Sans', sans-serif;
   font-weight: bold;
   display: inline-block;
 }
