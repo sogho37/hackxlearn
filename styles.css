@@ -4,6 +4,7 @@ body {
   color: #D0C9C0;
   margin: 0 0 0 0;
   padding: 0;
+  background-color: #FFFFFD;
 }
 
 .div1 {
@@ -95,7 +96,7 @@ a:hover {
   color: #A3C7D6;
 }
 
-.email {
+.links {
   margin-top: 20px;
   padding-top: 20px;
   font-size: 1rem;
