@@ -1,2 +1,2 @@
-# HackXLearn-Page
+# hackxlearn
 Page of HackXLearn
