@@ -2,7 +2,7 @@ body {
   font-family: 'Noto Sans', Arial, sans-serif;
   font-size: 1.1rem;
   color: #D0C9C0;
-  margin: 0 0 0 0;
+  margin: 0;
   padding: 0;
   background-color: #FFFFFD;
 }
@@ -11,7 +11,7 @@ body {
   background-color: #2C3333;
   margin-bottom: 0;
   padding-bottom: 30px;
-  padding-top: 30px;
+  padding-top: 20px;
 }
 
 .logo {
@@ -77,6 +77,13 @@ body {
   display: inline-block;
 }
 
+.div3 {
+  margin-top: 10px;
+  margin-bottom: 0;
+  text-align: center;
+  color: #A3C7D6;
+}
+
 a {
   color: #707070;
   text-decoration: none;
@@ -86,14 +93,6 @@ a {
 a:hover {
   color: #D49B54;
   font-weight: bold;
-  text-decoration: underline;
-}
-
-.div3 {
-  margin-top: 10px;
-  margin-bottom: 0;
-  text-align: center;
-  color: #A3C7D6;
 }
 
 .links {
